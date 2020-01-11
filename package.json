@@ -1,0 +1,24 @@
+{
+  "name": "reactrouterproject",
+  "version": "1.0.0",
+  "description": "working on using react router",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikkelrev22/reactRouterProject.git"
+  },
+  "author": "Michael Thompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikkelrev22/reactRouterProject/issues"
+  },
+  "homepage": "https://github.com/mikkelrev22/reactRouterProject#readme",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-router-dom": "^5.1.2"
+  }
+}
