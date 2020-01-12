@@ -5,7 +5,10 @@ const LandingPage = (props) => {
   return (
   <div>
     Welcome to the landing page
-    <button onClick={()=> {auth.login(()=>{})}}> Login </button>
+    <button onClick={()=> {auth.login((
+    )=>{
+      props.history.push('/app')
+    })}}> Login </button>
   </div>
   )
 }
